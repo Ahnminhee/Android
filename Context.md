@@ -16,4 +16,4 @@ ACtivityManagerService에 접근할 수 있는 통로 역할
 - Application 생명주기에 영향을 받음
 2. Activity Context
 - Activity 생명주기와 함께 동작해 onDestroy()와 함께 사라짐
-- Activity 환경 정보를 담고 있고 Context에 Intent를 통ㅇ해 다른 액티빝를 띄우면 스택이 쌓임
+- Activity 환경 정보를 담고 있고 Context에 Intent를 통해 다른 액티비티를 띄우면 스택이 쌓임
